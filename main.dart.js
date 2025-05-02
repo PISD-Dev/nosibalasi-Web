@@ -24428,7 +24428,7 @@ aPG(a){var s,r=null,q=A.O(a).p1.r
 q=A.ao("No Available Stance Information",r,r,r,r,r,r,r,q==null?r:q.bp(B.B),r,r,r,r)
 s=A.O(a).p1.z
 s=s==null?r:s.bp(B.B)
-s=A.jh(r,r,r,B.b1,r,r,!0,r,A.bQ(A.a([B.a2g,B.EY,A.bQ(r,r,r," button bellow.")],t.VO),r,s,r),B.a9,r,r,B.S,B.ae)
+s=A.jh(r,r,r,B.b1,r,r,!0,r,A.bQ(A.a([B.a2g,B.EY,A.bQ(r,r,r," button below.")],t.VO),r,s,r),B.a9,r,r,B.S,B.ae)
 return A.F1(A.a([A.dR(!1,A.ao("Contribute",r,r,r,r,r,r,r,r,r,r,r,r),r,r,r,r,r,r,new A.ar2(u.Q),r,r),A.dR(!1,A.ao("Close",r,r,r,r,r,r,r,r,r,r,r,r),r,r,r,r,r,r,new A.ar3(a),r,r)],t.p),s,q)},
 aPR(a,b){var s,r,q,p,o,n,m,l,k,j,i=null,h=J.jG(b)
 A.b1().$1(h.k(b))
@@ -24449,7 +24449,7 @@ j=A.O(a).p1.x
 l=A.dE(A.b7(A.a([A.ao("Secondary Source:",i,i,i,i,i,i,i,j==null?i:j.bp(B.B),i,i,i,i),A.dE(new A.p3(r,r,i),!1,!1,!1,!l),A.dE(new A.p3(q,q,i),!1,!1,!1,q!==""),A.dE(new A.p3(p,p,i),!1,!1,!1,p!=="")],m),B.E,B.x,B.u),!1,!1,!1,k)
 k=A.O(a).p1.Q
 k=k==null?i:k.bp(B.B)
-k=A.m8(A.b7(A.a([o,n,new A.aa(B.ar,l,i),A.jh(i,i,i,B.b1,i,i,!0,i,A.bQ(A.a([B.a2d,B.EY,A.bQ(i,i,i," button bellow.")],t.VO),i,k,i),B.a9,i,i,B.S,B.ae)],m),B.E,B.x,B.u),i)
+k=A.m8(A.b7(A.a([o,n,new A.aa(B.ar,l,i),A.jh(i,i,i,B.b1,i,i,!0,i,A.bQ(A.a([B.a2d,B.EY,A.bQ(i,i,i," button below.")],t.VO),i,k,i),B.a9,i,i,B.S,B.ae)],m),B.E,B.x,B.u),i)
 return A.F1(A.a([A.dR(!1,A.ao("Contribute",i,i,i,i,i,i,i,i,i,i,i,i),i,i,i,i,i,i,new A.ara(u.Q),i,i),A.dR(!1,A.ao("Close",i,i,i,i,i,i,i,i,i,i,i,i),i,i,i,i,i,i,new A.arb(a),i,i)],m),k,h)},
 a_a(a){var s=0,r=A.K(t.H),q
 var $async$a_a=A.G(function(b,c){if(b===1)return A.H(c,r)
