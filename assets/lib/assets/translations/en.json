@@ -1,0 +1,85 @@
+{
+  "Splash": {
+    "desc": "A voter empowerment app",
+    "start_quiz": "START",
+    "learn_more": "Learn More",
+    "data_disc": "What we do with your data"
+  },
+  "QuizCard": {
+    "issue": "Issue",
+    "LM": "Learn More...",
+    "prev": "Previous",
+    "Pabor": "Pabor",
+    "Di_Pabor": "Di Pabor",
+    "Wala": "Wala"
+  },
+  "Questions": {
+    "q1": "Are you in favor of abortion?",
+    "q2": "Are you in favor of the Death Penalty?",
+    "q3": "Are you in favor of same-sex unions?",
+    "q4": "Are you in favor of legalizing divorce?",
+    "q5": "Are you in favor of promoting mining?",
+    "q6": "Are you in favor of abolishing the\nNTF-ELCAC?",
+    "q7": "Are you in favor of defending the\nWest PH Sea against China?",
+    "q8": "Are you in favor of continuing the drug war?",
+    "q9": "Are you in favor of EJK?",
+    "q10": "Are you in favor of the Anti-Terror Law?",
+    "q11": "Are you in favor of Duterte shutting down ABS-CBN?",
+    "q12": "Are you in favor of collecting the Php203B unpaid taxes of Marcos?",
+    "q13": "Are you in favor of political dynasties?"
+  },
+  "DescLabel": {
+    "dl1": "What is abortion?",
+    "dl2": "What is the Death Penalty?",
+    "dl3": "What are Same-Sex Unions?",
+    "dl4": "What is Divorce?",
+    "dl5": "What is mining?",
+    "dl6": "What is the NTF-ELCAC?",
+    "dl7": "What is West Philippine Sea?,",
+    "dl8": "What is the Drug War?",
+    "dl9": "What are EJK?",
+    "dl10": "What is Anti Terror Law?",
+    "dl11": "What is the  ABS-CBN shutdown?",
+    "dl12": "What is the Marcos Tax?",
+    "dl13": "What are Political Dynasties?"
+  },
+  "Description": {
+    "d1": "no description found",
+    "d2": "no description found",
+    "d3": "no description found",
+    "d4": "no description found",
+    "d5": "no description found",
+    "d6": "no description found",
+    "d7": "no description found",
+    "d8": "no description found",
+    "d9": "no description found",
+    "d10": "no description found",
+    "d11": "no description found",
+    "d12": "no description found",
+    "d13": "no description found"
+  },
+  "Results": {
+    "header": "Tap to see your results!",
+    "president": "President",
+    "vicepres": "Vice-President",
+    "senate": "Senators",
+    "pick_1": "Pick 1 candidate\n",
+    "cand_tap": "Tap the candidates cards to see additional information on their positions",
+    "pick_senate": "Pick up to 12 candidate\n\nIt is also alright not have 12 candidates in your ballot\n\n"
+  },
+  "Compare": {
+    "running": "Running for {}",
+    "SamePos": {
+      "header": "You agree on the following Positions",
+      "pabor" : "{} is also in FAVOR of:",
+      "dipabor" : "{} is also NOT IN FAVOR of:"
+    },
+    "DifPose": {
+      "header": "You disagree on the following Positions",
+      "pabor" : "{} is in FAVOR of:",
+      "dipabor" : "{} is NOT IN FAVOR of:"
+    },
+    "wala" : "{} also has NO stance on:",
+    "ewan" : "{} has an UNSURE stance on:"
+  }
+}
