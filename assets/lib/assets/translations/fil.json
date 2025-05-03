@@ -1,72 +1,25 @@
 {
-  "Splash": {
+  "homeScreen": {
     "desc": "A voter empowerment app",
     "start_quiz": "SIMULAN",
+    "startQuizPrompt": "Press START to find your personalized candidate list",
     "learn_more": "Matuto Pa",
+    "candList": "Listahan ng mga Candidato",
     "data_disc": "Ang ginagawa namin sa iyong data"
   },
   "QuizCard": {
     "issue": "Isyu",
     "LM": "Matuto pa...",
     "prev": "Bumalik",
-    "Pabor": "Pabor",
-    "Di_Pabor": "Di-Pabor",
-    "Wala": "Wala"
-  },
-  "Questions": {
-    "q1": "Pabor ka ba sa abortion?",
-    "q2": "Pabor ka ba sa death penalty?",
-    "q3": "Pabor ka ba sa same-sex unions?",
-    "q4": "Pabor ka ba na gawing legal ang dibursyo?",
-    "q5": "Pabor ka ba sa pagmimina?",
-    "q6": "Pabor ka ba sa pagbuwag ng\nNTF-ELCAC?",
-    "q7": "Pabor ka ba na ipagtanggol ang\nWest PH Sea laban sa Tsina?",
-    "q8": "Pabor ka ba na ipatuloy ang drug war?",
-    "q9": "Pabor ka ba sa EJK?",
-    "q10": "Pabor ka ba sa Anti-Terror Law?",
-    "q11": "Pabor ka ba sa pagsara ni Duterte ng ABS-CBN?",
-    "q12": "Pabor ka ba sa pagkolekta ng Php 203B na utang na buwis ni Marcos?",
-    "q13": "Pabor ka ba sa mga political dynasties?"
-  },
-  "DescLabel": {
-    "dl1": "Ano ang abortion?",
-    "dl2": "Ano ang death penalty?",
-    "dl3": "Ano ang same-sex unions?",
-    "dl4": "Ano ang dibursyo?",
-    "dl5": "Ano ang pagmimina?",
-    "dl6": "Ano ang NTF-ELCAC?",
-    "dl7": "Ano ang West PH Sea isyu?",
-    "dl8": "Ano ang drug war?",
-    "dl9": "Ano ang EJK?",
-    "dl10": "Ano ang Anti-Terror Law?",
-    "dl11": "Ano ang ABS-CBN shutdown?",
-    "dl12": "Ano ang utang na buwis ni Marcos?",
-    "dl13": "Ano ang political dynasty?"
-  },
-  "Description": {
-    "d1": "walang mahanap na deskripsyon",
-    "d2": "walang mahanap na deskripsyon",
-    "d3": "walang mahanap na deskripsyon",
-    "d4": "walang mahanap na deskripsyon",
-    "d5": "walang mahanap na deskripsyon",
-    "d6": "walang mahanap na deskripsyon",
-    "d7": "walang mahanap na deskripsyon",
-    "d8": "walang mahanap na deskripsyon",
-    "d9": "walang mahanap na deskripsyon",
-    "d10": "walang mahanap na deskripsyon",
-    "d11": "walang mahanap na deskripsyon",
-    "d12": "walang mahanap na deskripsyon",
-    "d13": "walang mahanap na deskripsyon"
+    "Pabor": "PABOR",
+    "Di_Pabor": "DI-PABOR",
+    "Wala": "WALA",
+    "Ewan": "Ewan"
   },
   "Results": {
     "header": "I-tap para makita ang iyong resulta!",
-
-    "president": "Presidente",
-    "vicepres": "Bise-Presidente",
-    "senate": "Mga Senador",
     "pick_1": "Pumili ng 1 kandidato\n",
-    "cand_tap": "I-tap ang kandidato para sa karagdagang info sa mga posisyon nila\n",
-    "pick_senate": "Pumili ng hangang 12 na kandidato\nOk lang kung hindi mo mapuno ang 12 blanko\n\n"
+    "cand_tap": "I-tap ang kandidato para sa karagdagang info sa mga posisyon nila\n"
   },
   "Compare": {
     "running": "Tumatakbo bilang {}",
