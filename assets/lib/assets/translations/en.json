@@ -1,11 +1,11 @@
 {
   "homeScreen": {
     "desc": "A voter empowerment app",
-    "start_quiz": "START",
-    "startQuizPrompt": "Press START to find your personalized candidate list",
-    "candList": "List of Candidates",
-    "learn_more": "Learn More",
-    "data_disc": "What we do with your data"
+    "start_quiz": "START QUIZ",
+    "candList": "Candidate List",
+    "learn_more": "FAQ",
+    "data_disc": "Privacy Policy",
+    "project_des": "nosibalasi is a project of the Philippine Institute for Student Democracy (PISD) learn more at pisd.org.ph"
   },
   "QuizCard": {
     "issue": "Issue",
