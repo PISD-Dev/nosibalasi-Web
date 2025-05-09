@@ -31,11 +31,11 @@
       "dipabor" : "{} is also NOT IN FAVOR of:"
     },
     "DifPose": {
-      "header": "You and {} have the DIFFERENT stances on these issues:",
+      "header": "You and {} have DIFFERENT stances on these issues:",
       "pabor" : "{} is in FAVOR of:",
       "dipabor" : "{} is NOT IN FAVOR of:"
     },
     "wala" : "{} has NO stance on:",
-    "ewan" : "{} has an UNSURE stance on:"
+    "ewan" : "{} has an EWAN stance on:"
   }
 }
