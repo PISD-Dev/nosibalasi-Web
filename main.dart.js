@@ -79806,7 +79806,7 @@ A.a6G.prototype={
 $1(a){return new A.pS(null)},
 $S:482}
 A.a6M.prototype={
-$0(){return A.a_q("http://pisd.org.ph")},
+$0(){return A.a_q("https://www.facebook.com/pisdofficial")},
 $S:0}
 A.a6N.prototype={
 $0(){return A.a_q("https://github.com/PISD-Dev/nosibalasi-Web?tab=AGPL-3.0-1-ov-file#readme")},
