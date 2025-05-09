@@ -1,11 +1,11 @@
 {
-    "name": "nosi_balasi",
-    "short_name": "nosi_balasi",
+    "name": "nosibalasi",
+    "short_name": "nosibalasi",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "A Voter Empowerment App.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

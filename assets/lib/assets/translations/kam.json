@@ -1,0 +1,42 @@
+{
+  "homeScreen": {
+    "desc": "A voter empowerment app",
+    "start_quiz": "SIMULAN AND KWIS",
+    "learn_more": "Matuto Pa",
+    "candList": "Listahan ng mga Candidato",
+    "data_disc": "Privacy Policy",
+    "project_des": "nosibalasi is a project of the Philippine Institute for Student Democracy (PISD) learn more at pisd.org.ph"
+
+  },
+  "QuizCard": {
+    "issue": "Isyu",
+    "LM": "Matuto pa...",
+    "prev": "Bumalik",
+    "Pabor": "PABOR",
+    "Di_Pabor": "DI-PABOR",
+    "Wala": "WALA",
+    "Ewan": "EWAN"
+  },
+  "Results": {
+    "header": "I-tap para makita ang iyong resulta!",
+    "pick_1": "Pumili ng 1 kandidato\n",
+    "cand_tap": "I-tap ang kandidato para sa karagdagang info sa mga posisyon nila\n"
+  },
+  "Compare": {
+    "running": "Tumatakbo bilang {}",
+    "SamePos": {
+      "header": "Nagkakasundo kayo sa sumusunod na Isyu",
+      "pabor" : "PABOR din si {} dito:",
+      "diPabor" : "DI-PABOR din si {} dito:"
+
+    },
+    "DifPose": {
+      "header": "Hindi kayo nagkakasundo sa sumusunod na Isyu",
+      "pabor" : "PABOR si {} dito:",
+      "diPabor" : "DI-PABOR si {} dito:"
+
+    },
+    "wala" : "WALANG posisyon si {} dito:",
+    "ewan" : "EWAN si {} dito:"
+  }
+}

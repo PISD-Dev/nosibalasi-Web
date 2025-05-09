@@ -25,7 +25,7 @@
     "running": "Running for {}",
     "SamePos": {
       "header": "You agree on the following Positions",
-      "pabor" : "{} is also in FAVOR of:",
+      "pabor" : "{} is in FAVOR of:",
       "dipabor" : "{} is also NOT IN FAVOR of:"
     },
     "DifPose": {
