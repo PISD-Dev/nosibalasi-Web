@@ -35,7 +35,7 @@
       "pabor" : "{} is in FAVOR of:",
       "dipabor" : "{} is NOT IN FAVOR of:"
     },
-    "wala" : "{} also has NO stance on:",
+    "wala" : "{} has NO stance on:",
     "ewan" : "{} has an UNSURE stance on:"
   }
 }
