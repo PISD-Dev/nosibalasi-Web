@@ -24,12 +24,14 @@
   "Compare": {
     "running": "Running for {}",
     "SamePos": {
-      "header": "You agree on the following Positions",
-      "pabor" : "{} is in FAVOR of:",
+
+      "header": "You and {} have the SAME stances on these issues:",
+      "pabor" : "{} is also in FAVOR of:",
+
       "dipabor" : "{} is also NOT IN FAVOR of:"
     },
     "DifPose": {
-      "header": "You disagree on the following Positions",
+      "header": "You and {} have the DIFFERENT stances on these issues:",
       "pabor" : "{} is in FAVOR of:",
       "dipabor" : "{} is NOT IN FAVOR of:"
     },
