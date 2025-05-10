@@ -79881,7 +79881,7 @@ A.a6P.prototype={
 $0(){A.ac1(this.a,"/home/candidateList",t.X)},
 $S:0}
 A.a6Q.prototype={
-$0(){A.ac1(this.a,"/home/privacyPolicy",t.X)},
+$0(){A.ac1(this.a,"/home/aboutUs",t.X)},
 $S:0}
 A.a6R.prototype={
 $0(){return A.a_w("https://www.facebook.com/pisdofficial")},
