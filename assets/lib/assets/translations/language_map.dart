@@ -6,9 +6,9 @@ Map<String, String> localeToKey = {
   'ceb': 'Cebuano',
   'ilo': 'Ilocano',
   'hil': 'Hiligaynon',
-  'bik': 'Bikolano',
+  'bik': 'Bikol',
   'war': 'Waray',
   'kam': 'Kapampangan',
   'mdh': 'Maguindanao',
-  'pag': 'Panggalato',
+  'pag': 'Pangasinan',
 };
