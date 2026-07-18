@@ -1,0 +1,54 @@
+{
+  "homeScreen": {
+    "desc": "A voter empowerment app",
+    "start_quiz": "SIMULAN AND KWIS",
+    "learn_more": "Matuto Pa",
+    "candList": "Listahan ng mga Candidato",
+    "data_disc": "Privacy Policy",
+    "project_des": "nosibalasi is a project of the Philippine Institute for Student Democracy (PISD) learn more at pisd.org.ph"
+  },
+  "QuizCard": {
+    "issue": "Isyu",
+    "LM": "Matuto pa...",
+    "prev": "Bumalik",
+    "Pabor": "PABOR",
+    "Di_Pabor": "DI-PABOR",
+    "Wala": "WALA",
+    "Ewan": "EWAN"
+  },
+  "Results": {
+    "header": "I-tap para makita ang iyong resulta!",
+    "pick_1": "Pumili ng 1 kandidato\n",
+    "cand_tap": "I-tap ang kandidato para sa karagdagang info sa mga posisyon nila\n"
+  },
+  "Compare": {
+    "running": "Tumatakbo bilang {}",
+    "SamePos": {
+      "header": "Nagkakasundo kayo sa sumusunod na Isyu",
+      "pabor": "PABOR din si {} dito:",
+      "diPabor": "DI-PABOR din si {} dito:"
+    },
+    "DifPose": {
+      "header": "Hindi kayo nagkakasundo sa sumusunod na Isyu",
+      "pabor": "PABOR si {} dito:",
+      "diPabor": "DI-PABOR si {} dito:"
+    },
+    "wala": "WALANG posisyon si {} dito:",
+    "ewan": "EWAN si {} dito:"
+  },
+  "questions": {
+    "q0": "Pabor ka bala sa aborsyon?",
+    "q1": "Pabor ka bala sa silot nga kamatayon?",
+    "q2": "Pabor ka bala sa pag-ugyon sang isig kapareho mo?",
+    "q3": "Pabor ka bala nga ma-legal ang pagbulaganay (divorce)?",
+    "q4": "Pabor ka bala sa sa pagpahalin sa pwesto kay Bise-Presidente Sara Duterte?",
+    "q5": "Pabor ka bala sang pagdepensa sang West PH Sea kontra sa China?",
+    "q6": "Pabor ka bala sang pagkooperar upod sang International Criminal Court (ICC)?",
+    "q7": "Pabor ka bala sang mandatoryo nga Comprehensive Sexual Education (CSE)?",
+    "q8": "Pabor ka bala sa mandatoryo nga Mandatory Reserve Officers Training Corps (MROTC)?",
+    "q9": "Pabor ka bala sa pagduso sang minahan diri sa Pilipinas?",
+    "q10": "Pabor ka bala sang pagpasa sang Sexual Orientation, Gender Identity and Expression (SOGIE) Equality Bill?",
+    "q11": "Pabor ka bala sa pag bag-o ukon pag ilis sang konstitusyon?",
+    "q12": "Pabor ka bala sa mga politiko nga halin sa isa lang ka pamilya?"
+  }
+}

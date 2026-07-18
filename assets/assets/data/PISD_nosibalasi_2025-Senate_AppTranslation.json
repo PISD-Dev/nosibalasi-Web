@@ -1,0 +1,210 @@
+[
+    {
+
+        "#": "q1",
+        "English": "Are you in favor of abortion?",
+        "Filipino": "Pabor ka ba sa aborsyon?",
+        "Tagalog": "Sumasang-ayon ka ba sa pagpapalaglag?",
+        "Bisaya": "Pabor ba ka sa paglaglag sa bata?",
+        "Hiligaynon": "Pabor ka bala sa aborsyon?",
+        "Ilocano": "Pabor ka kadi iti aborsion?",
+        "Cebuano": "Uyon ba ka sa paglaglag sa bata?",
+        "Bikol": "Pabor ka ba sa aborsyon?",
+        "Waray": "Nauyon ka ba ha pagpapapunit o aborsyon?",
+        "Kapampangan": "Pabor ka ba king pagpapalaglag?",
+        "Maguindanao": "",
+        "Pangasinan": "Pabor ka kasi ed aborsion?"
+    },
+    {
+        
+        "#": "q2",
+        "English": "Are you in favor of the death penalty?",
+        "Filipino": "Pabor ka ba sa death penalty?",
+        "Tagalog": "Sumasang-ayon ka ba sa parusang kamatayan?",
+        "Bisaya": "Pabor ba ka sa kamatayong silot?",
+        "Hiligaynon": "Pabor ka bala sa silot nga kamatayon?",
+        "Ilocano": "Pabor ka kadi iti dusa nga ipapatay?",
+        "Cebuano": "Uyon ba ka sa kamatayong silot?",
+        "Bikol": "Pabor ka ba sa parusang kagadanan?",
+        "Waray": "Pabor ka ba han sirot nga kamatayon?",
+        "Kapampangan": "Pabor ka bang king death penalty?",
+        "Maguindanao": "",
+        "Pangasinan": "Pabor ka kasi ed dusa ya ipapatey?"
+    },
+    {
+        
+        "#": "q3",
+        "English": "Are you in favor of same-sex unions?",
+        "Filipino": "Pabor ka ba sa unyon na same-sex?",
+        "Tagalog": "Sumasang-ayon ka ba sa unyon ng parehong kasarian?",
+        "Bisaya": "Pabor ba ka sa kaminyoon sa mga sama og sekso?",
+        "Hiligaynon": "Pabor ka bala sa pag-ugyon sang isig kapareho mo?",
+        "Ilocano": "Pabor kayo kadi kadagiti panagtipon ti agpada a sekso?",
+        "Cebuano": "Uyon ba ka sa kaminyoon sa mga sama og sekso?",
+        "Bikol": "Pabor ka ba sa kasalan na magka-parehong kasarian?",
+        "Waray": "Nauyon ka ba ha pag-asawa han pariho an sekso, pareho babayi ug pareho lalaki?",
+        "Kapampangan": "Pabor ka ba king pamisanmetung ning adwang parehung lalaki o babayi?",
+        "Maguindanao": "",
+        "Pangasinan": "Pabor ka kasi ed pankakasakey na parehon sekso?"
+    },
+    {
+        
+        "#": "q4",
+        "English": "Are you in favor of legalizing divorce?",
+        "Filipino": "Pabor ka ba na gawing legal ang diborsyo?",
+        "Tagalog": "Sumasang-ayon ka ba na gawing legal ang diborsyo?",
+        "Bisaya": "Pabor ba ka sa pag legalisar sa diborsyo?",
+        "Hiligaynon": "Pabor ka bala nga ma-legal ang pagbulaganay (divorce)?",
+        "Ilocano": "Pabor ka kadi iti pannakaipaulog a legal ti diborsio?",
+        "Cebuano": "Uyon ba ka sa pag legalisar sa diborsyo?",
+        "Bikol": "Pabor ka ba na gibuhong legal an diborsyo?",
+        "Waray": "Pabor ka ba nga magin legal an diborsyo?",
+        "Kapampangan": "Pabor ka ba king pikakawani na ning adwang mag asawa?",
+        "Maguindanao": "",
+        "Pangasinan": "Pabor ka kasi ed panggawa na legal na diborsyo?"
+    },
+    {
+        
+        "#": "q5",
+        "English": "Are you in favor of impeaching Vice-President Sara Duterte?",
+        "Filipino": "Pabor ka ba sa pag-impeach kay Bise-Presidente Sara Duterte?",
+        "Tagalog": "Sumasang-ayon ka ba sa pagsasakdal kay Pangalawang Pangulo Sara Duterte?",
+        "Bisaya": "Pabor ba ka sa pagpatangtang si Bise-Presidente Sara Duterte?",
+        "Hiligaynon": "Pabor ka bala sa sa pagpahalin sa pwesto kay Bise-Presidente Sara Duterte?",
+        "Ilocano": "Pabor kayo kadi ti pannaka-impeaching ni Bise-Presidente Sara Duterte?",
+        "Cebuano": "Uyon ba ka sa pagpatangtang si Bise-Presidente Sara Duterte?",
+        "Bikol": "Pabor ka ba sa pagpapa-impeach ki Bise Presidente Sara Duterte?",
+        "Waray": "Nauyon ka ba na i-impeach hi Bise-Presidente Sara Duterte?",
+        "Kapampangan": "Pabor ka ba na milako ya king panga Vice-President i Sara Duterte?",
+        "Maguindanao": "",
+        "Pangasinan": "Pabor ka kasi ya i-impeach si Vice-President Sara Duterte?"
+    },
+    {
+        
+        "#": "q6",
+        "English": "Are you in favor of defending the West PH Sea against China?",
+        "Filipino": "Pabor ka ba sa pagdepensa sa West PH Sea laban sa Tsina?",
+        "Tagalog": "Sumasang-ayon ka ba sa pagdepensa sa West PH Sea laban sa Tsina?",
+        "Bisaya": "Pabor ba ka nga depensahan ang West PH Sea batok sa China?",
+        "Hiligaynon": "Pabor ka bala sang pagdepensa sang West PH Sea kontra sa China?",
+        "Ilocano": "Pabor ka kadi nga idepensa ti West PH Sea kontra China?",
+        "Cebuano": "Uyon ba ka nga depensahan ang West PH Sea batok sa China?",
+        "Bikol": "Pabor ka ba na depensahan an West Philippine Sea laban sa China?",
+        "Waray": "Pabor ka ba nga depensahan an West PH Sea kontra China?",
+        "Kapampangan": "Pabor ka ba na depensahan taya ing West PH laban king China?",
+        "Maguindanao": "",
+        "Pangasinan": "Pabor ka kasi ed pangidepende ed West PH Sea laban ed China?"
+    },
+    {
+        
+        "#": "q7",
+        "English": "Are you in favor of cooperating with the International Criminal Court (ICC)?",
+        "Filipino": "Pabor ka ba sa pakikipagtulungan sa International Criminal Court (ICC)?",
+        "Tagalog": "Sumasang-ayon ka ba sa pakikipagtulungan sa International Criminal Court (ICC)?",
+        "Bisaya": "Pabor ba ka sa pagkooperar sa International Criminal Court (ICC)?",
+        "Hiligaynon": "Pabor ka bala sang pagkooperar upod sang International Criminal Court (ICC)?",
+        "Ilocano": "Pabor kayo kadi a makitinnulong iti International Criminal Court (ICC)?",
+        "Cebuano": "Uyon ba ka sa pagkooperar sa International Criminal Court (ICC)?",
+        "Bikol": "Pabor ka ba sa pakikipag-kooperar sa International Criminal Court (ICC)?",
+        "Waray": "Nauyon ka ba nga makibulig ha International Criminal Court (ICC)?",
+        "Kapampangan": "Pabor ka ba na makyabe ya ing gobyerno tamu king International Criminal Court (ICC)?",
+        "Maguindanao": "",
+        "Pangasinan": "Pabor ka kasi ed kooperasyon ed International Criminal Court (ICC)?"
+    },
+    {
+        
+        "#": "q8",
+        "English": "Are you in favor of mandatory Comprehensive Sexuality Education (CSE)?",
+        "Filipino": "Pabor ka ba sa pagpasa ng Comprehensive Sexuality Education (CSE)?",
+        "Tagalog": "Sumasang-ayon ka ba sa pagpasa ng Comprehensive Sexuality Education (CSE)?",
+        "Bisaya": "Pabor ba ka sa minando nga Comprehensive Sexuality Education (CSE)?",
+        "Hiligaynon": "Pabor ka bala sang mandatoryo nga Comprehensive Sexual Education (CSE)?",
+        "Ilocano": "Pabor kayo kadi iti mandatory a Comprehensive Sexuality Education (CSE)?",
+        "Cebuano": "Uyon ba ka sa minando nga Comprehensive Sexuality Education (CSE)?",
+        "Bikol": "Pabor ka ba sa obligadong Comprehensive Sexuality Education (CSE)?",
+        "Waray": "Pabor ka ba han obligado nga Kabug-usan Nga Edukasyon ha Sekswalidad o Comprehensive Sexuality Education (CSE)?",
+        "Kapampangan": "Pabor ka ba king Mandatory Comprehensive Sexuality Education (CSE) o ing pamagaral king kasarian at sekswalidad?",
+        "Maguindanao": "",
+        "Pangasinan": "Pabor ka kasi ed mandatory ya Comprehensive Sexuality Education (CSE)?"
+    },
+    {
+        
+        "#": "q9",
+        "English": "Are you in favor of Mandatory Reserve Officers Training Corps (MROTC)?",
+        "Filipino": "Pabor ka ba sa Mandatory Reserve Officers Training Corps (MROTC)?",
+        "Tagalog": "Sumasang-ayon ka ba sa sapilitan na Reserve Officers Training Corps (MROTC)?",
+        "Bisaya": "Pabor ba ka sa minando nga Reserve Officers Training Corps (MROTC)?",
+        "Hiligaynon": "Pabor ka bala sa mandatoryo nga Mandatory Reserve Officers Training Corps (MROTC)?",
+        "Ilocano": "Pabor kayo kadi ti Mandatory Reserve Officers Training Corps (MROTC)?",
+        "Cebuano": "Uyon ba ka sa minando nga Reserve Officers Training Corps (MROTC)?",
+        "Bikol": "Pabor ka ba sa Mandatory Reserve Officers' Training Corps (MROTC)?",
+        "Waray": "Nauyon ka ba na piriton an ROTC o Mandatory Reserve Officers Training Corps (MROTC)?",
+        "Kapampangan": "Pabor ka king Mandatory Reserve Officers Training Corps (MROTC)?",
+        "Maguindanao": "",
+        "Pangasinan": "Pabor ka kasi ed mandatory ya Reserve Officers Training Corps (MROTC)?"
+    },
+    {
+        
+        "#": "q10",
+        "English": "Are you in favor of promoting mining in the Philippines?",
+        "Filipino": "Pabor ka ba sa pagsuporta ng pagmimina sa Pilipinas?",
+        "Tagalog": "Sumasang-ayon ka ba sa pagsuporta ng pagmimina sa Pilipinas?",
+        "Bisaya": "Pabor ba ka sa pagpasiugda sa pagmina sa Pilipinas?",
+        "Hiligaynon": "Pabor ka bala sa pagduso sang minahan diri sa Pilipinas?",
+        "Ilocano": "Pabor kayo kadi ti pannakaitandudo ti panagminas ditoy Pilipinas?",
+        "Cebuano": "Uyon ba ka sa pagpasiugda sa pagmina sa Pilipinas?",
+        "Bikol": "Pabor ka ba sa pag-promote nin pagmimina sa Pilipinas?",
+        "Waray": "Nauyon ka ba han pagsuporta hit pagmimina ha Pilipinas?",
+        "Kapampangan": "Pabor ka ba king pag promote pamagmina king Pilipinas?",
+        "Maguindanao": "",
+        "Pangasinan": "Pabor ka kasi ed pangipasal na panagmina ed Pilipinas?"
+    },
+    {
+        
+        "#": "q11",
+        "English": "Are you in favor of passing the Sexual Orientation, Gender Identity and Expression (SOGIE) Equality Bill?",
+        "Filipino": "Pabor ka ba na ipasa ang Sexual Orientation, Gender Identity and Expression (SOGIE) Equality Bill?",
+        "Tagalog": "Pabor ka ba na ipasa ang Sexual Orientation, Gender Identity and Expression (SOGIE) Equality Bill?",
+        "Bisaya": "Pabor ba ka sa gipasa nga Sexual Orientation, Gender Identity and Expression (SOGIE) Equality Bill?",
+        "Hiligaynon": "Pabor ka bala sang pagpasa sang Sexual Orientation, Gender Identity and Expression (SOGIE) Equality Bill?",
+        "Ilocano": "Pabor ka kadi ti naipasa a 2025 General Appropriations Act (GAA)?",
+        "Cebuano": "Uyon ba ka sa gipasa nga Sexual Orientation, Gender Identity and Expression (SOGIE) Equality Bill?",
+        "Bikol": "Pabor ka ba sa pagpasa kan Sexual Orientation, Gender Identity and Expression (SOGIE) Equality Bill?",
+        "Waray": "Pabor ka ba nga ipasa an Sexual Orientation, Gender Identity and Expression (SOGIE) Equality Bill?",
+        "Kapampangan": "Pabor ka ba na mipasar ya ing Sexual Orientation, Gender Identity and Expression (SOGIE) Equality Bill?",
+        "Maguindanao": "",
+        "Pangasinan": "Pabor ka kasi ed pangipasa na Sexual Orientationa, Gender Identity and Expression (SOGIE) Equality Bill?"
+    },
+    {
+        
+        "#": "q12",
+        "English": "Are you in favor of charter change?",
+        "Filipino": "Pabor ka ba sa charter change?",
+        "Tagalog": "Sumasang-ayon ka ba sa pagbabago ng konstitusyon?",
+        "Bisaya": "Pabor ba ka sa charter change?",
+        "Hiligaynon": "Pabor ka bala sa pag bag-o ukon pag ilis sang konstitusyon?",
+        "Ilocano": "Pabor ka kadi iti panagbalbaliw ti charter?",
+        "Cebuano": "Uyon ba ka sa charter change?",
+        "Bikol": "Pabor ka ba sa pagbago kan Konstitusyon (charter change)?",
+        "Waray": "Nauyon ka ba hit pagbabag-o hiton konstitusyon?",
+        "Kapampangan": "Pabor ka ba king charter change?",
+        "Maguindanao": "",
+        "Pangasinan": "Pabor ka kasi ed panaguman na charter?"
+    },
+    {
+        
+        "#": "q13",
+        "English": "Are you in favor of political dynasties?",
+        "Filipino": "Pabor ka ba sa political dynasties?",
+        "Tagalog": "Sumasang-ayon ka ba sa mga dinastiyang politikal?",
+        "Bisaya": "Pabor ba ka sa political dynasties?",
+        "Hiligaynon": "Pabor ka bala sa mga politiko nga halin sa isa lang ka pamilya?",
+        "Ilocano": "Pabor kayo kadi kadagiti napolitikaan a dinastia?",
+        "Cebuano": "Uyon ba ka sa political dynasties?",
+        "Bikol": "Pabor ka ba sa mga dinastiya sa politika?",
+        "Waray": "Nauyon ka ba han mga dinastiya nga panpolitika?",
+        "Kapampangan": "Pabor ka ba king political dynasties?",
+        "Maguindanao": "",
+        "Pangasinan": "Pabor ka kasi ed saray dinastiya na politika?"
+    }
+]

@@ -1,0 +1,54 @@
+{
+  "homeScreen": {
+    "desc": "A voter empowerment app",
+    "start_quiz": "SIMULAN AND KWIS",
+    "learn_more": "Matuto Pa",
+    "candList": "Listahan ng mga Candidato",
+    "data_disc": "Privacy Policy",
+    "project_des": "nosibalasi is a project of the Philippine Institute for Student Democracy (PISD) learn more at pisd.org.ph"
+  },
+  "QuizCard": {
+    "issue": "Isyu",
+    "LM": "Matuto pa...",
+    "prev": "Bumalik",
+    "Pabor": "PABOR",
+    "Di_Pabor": "DI-PABOR",
+    "Wala": "WALA",
+    "Ewan": "EWAN"
+  },
+  "Results": {
+    "header": "I-tap para makita ang iyong resulta!",
+    "pick_1": "Pumili ng 1 kandidato\n",
+    "cand_tap": "I-tap ang kandidato para sa karagdagang info sa mga posisyon nila\n"
+  },
+  "Compare": {
+    "running": "Tumatakbo bilang {}",
+    "SamePos": {
+      "header": "Nagkakasundo kayo sa sumusunod na Isyu",
+      "pabor": "PABOR din si {} dito:",
+      "diPabor": "DI-PABOR din si {} dito:"
+    },
+    "DifPose": {
+      "header": "Hindi kayo nagkakasundo sa sumusunod na Isyu",
+      "pabor": "PABOR si {} dito:",
+      "diPabor": "DI-PABOR si {} dito:"
+    },
+    "wala": "WALANG posisyon si {} dito:",
+    "ewan": "EWAN si {} dito:"
+  },
+  "questions": {
+    "q0": "Pabor ka kasi ed aborsion?",
+    "q1": "Pabor ka kasi ed dusa ya ipapatey?",
+    "q2": "Pabor ka kasi ed pankakasakey na parehon sekso?",
+    "q3": "Pabor ka kasi ed panggawa na legal na diborsyo?",
+    "q4": "Pabor ka kasi ya i-impeach si Vice-President Sara Duterte?",
+    "q5": "Pabor ka kasi ed pangidepende ed West PH Sea laban ed China?",
+    "q6": "Pabor ka kasi ed kooperasyon ed International Criminal Court (ICC)?",
+    "q7": "Pabor ka kasi ed mandatory ya Comprehensive Sexuality Education (CSE)?",
+    "q8": "Pabor ka kasi ed mandatory ya Reserve Officers Training Corps (MROTC)?",
+    "q9": "Pabor ka kasi ed pangipasal na panagmina ed Pilipinas?",
+    "q10": "Pabor ka kasi ed pangipasa na Sexual Orientationa, Gender Identity and Expression (SOGIE) Equality Bill?",
+    "q11": "Pabor ka kasi ed panaguman na charter?",
+    "q12": "Pabor ka kasi ed saray dinastiya na politika?"
+  }
+}

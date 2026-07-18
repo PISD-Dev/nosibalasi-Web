@@ -1,0 +1,54 @@
+{
+  "homeScreen": {
+    "desc": "A voter empowerment app",
+    "start_quiz": "START QUIZ",
+    "candList": "Candidate List",
+    "learn_more": "FAQ",
+    "data_disc": "Privacy Policy",
+    "project_des": "nosibalasi is a project of the Philippine Institute for Student Democracy (PISD) learn more at pisd.org.ph"
+  },
+  "QuizCard": {
+    "issue": "Issue",
+    "LM": "Learn More...",
+    "prev": "Previous",
+    "Pabor": "PABOR",
+    "Di_Pabor": "DI PABOR",
+    "Wala": "WALA",
+    "Ewan": "EWAN"
+  },
+  "Results": {
+    "header": "Tap to see your results!",
+    "pick_1": "Pick 1 candidate\n",
+    "cand_tap": "Tap the candidates cards to see additional information on their positions"
+  },
+  "Compare": {
+    "running": "Running for {}",
+    "SamePos": {
+      "header": "You and {} have the SAME stances on these issues:",
+      "pabor": "{} is also in FAVOR of:",
+      "dipabor": "{} is also NOT IN FAVOR of:"
+    },
+    "DifPose": {
+      "header": "You and {} have DIFFERENT stances on these issues:",
+      "pabor": "{} is in FAVOR of:",
+      "dipabor": "{} is NOT IN FAVOR of:"
+    },
+    "wala": "{} has NO stance on:",
+    "ewan": "{} has an EWAN stance on:"
+  },
+  "questions": {
+    "q0": "Are you in favor of abortion?",
+    "q1": "Are you in favor of the death penalty?",
+    "q2": "Are you in favor of same-sex unions?",
+    "q3": "Are you in favor of legalizing divorce?",
+    "q4": "Are you in favor of impeaching Vice-President Sara Duterte?",
+    "q5": "Are you in favor of defending the West PH Sea against China?",
+    "q6": "Are you in favor of cooperating with the International Criminal Court (ICC)?",
+    "q7": "Are you in favor of mandatory Comprehensive Sexuality Education (CSE)?",
+    "q8": "Are you in favor of Mandatory Reserve Officers Training Corps (MROTC)?",
+    "q9": "Are you in favor of promoting mining in the Philippines?",
+    "q10": "Are you in favor of passing the Sexual Orientation, Gender Identity and Expression (SOGIE) Equality Bill?",
+    "q11": "Are you in favor of charter change?",
+    "q12": "Are you in favor of political dynasties?"
+  }
+}

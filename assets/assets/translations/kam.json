@@ -1,0 +1,54 @@
+{
+  "homeScreen": {
+    "desc": "A voter empowerment app",
+    "start_quiz": "SIMULAN AND KWIS",
+    "learn_more": "Matuto Pa",
+    "candList": "Listahan ng mga Candidato",
+    "data_disc": "Privacy Policy",
+    "project_des": "nosibalasi is a project of the Philippine Institute for Student Democracy (PISD) learn more at pisd.org.ph"
+  },
+  "QuizCard": {
+    "issue": "Isyu",
+    "LM": "Matuto pa...",
+    "prev": "Bumalik",
+    "Pabor": "PABOR",
+    "Di_Pabor": "DI-PABOR",
+    "Wala": "WALA",
+    "Ewan": "EWAN"
+  },
+  "Results": {
+    "header": "I-tap para makita ang iyong resulta!",
+    "pick_1": "Pumili ng 1 kandidato\n",
+    "cand_tap": "I-tap ang kandidato para sa karagdagang info sa mga posisyon nila\n"
+  },
+  "Compare": {
+    "running": "Tumatakbo bilang {}",
+    "SamePos": {
+      "header": "Nagkakasundo kayo sa sumusunod na Isyu",
+      "pabor": "PABOR din si {} dito:",
+      "diPabor": "DI-PABOR din si {} dito:"
+    },
+    "DifPose": {
+      "header": "Hindi kayo nagkakasundo sa sumusunod na Isyu",
+      "pabor": "PABOR si {} dito:",
+      "diPabor": "DI-PABOR si {} dito:"
+    },
+    "wala": "WALANG posisyon si {} dito:",
+    "ewan": "EWAN si {} dito:"
+  },
+  "questions": {
+    "q0": "Pabor ka ba king pagpapalaglag?",
+    "q1": "Pabor ka bang king death penalty?",
+    "q2": "Pabor ka ba king pamisanmetung ning adwang parehung lalaki o babayi?",
+    "q3": "Pabor ka ba king pikakawani na ning adwang mag asawa?",
+    "q4": "Pabor ka ba na milako ya king panga Vice-President i Sara Duterte?",
+    "q5": "Pabor ka ba na depensahan taya ing West PH laban king China?",
+    "q6": "Pabor ka ba na makyabe ya ing gobyerno tamu king International Criminal Court (ICC)?",
+    "q7": "Pabor ka ba king Mandatory Comprehensive Sexuality Education (CSE) o ing pamagaral king kasarian at sekswalidad?",
+    "q8": "Pabor ka king Mandatory Reserve Officers Training Corps (MROTC)?",
+    "q9": "Pabor ka ba king pag promote pamagmina king Pilipinas?",
+    "q10": "Pabor ka ba na mipasar ya ing Sexual Orientation, Gender Identity and Expression (SOGIE) Equality Bill?",
+    "q11": "Pabor ka ba king charter change?",
+    "q12": "Pabor ka ba king political dynasties?"
+  }
+}

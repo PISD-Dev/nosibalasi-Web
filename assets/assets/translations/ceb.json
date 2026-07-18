@@ -1,0 +1,54 @@
+{
+  "homeScreen": {
+    "desc": "A voter empowerment app",
+    "start_quiz": "SIMULAN AND KWIS",
+    "learn_more": "Matuto Pa",
+    "candList": "Listahan ng mga Candidato",
+    "data_disc": "Privacy Policy",
+    "project_des": "nosibalasi is a project of the Philippine Institute for Student Democracy (PISD) learn more at pisd.org.ph"
+  },
+  "QuizCard": {
+    "issue": "Isyu",
+    "LM": "Matuto pa...",
+    "prev": "Bumalik",
+    "Pabor": "PABOR",
+    "Di_Pabor": "DI-PABOR",
+    "Wala": "WALA",
+    "Ewan": "EWAN"
+  },
+  "Results": {
+    "header": "I-tap para makita ang iyong resulta!",
+    "pick_1": "Pumili ng 1 kandidato\n",
+    "cand_tap": "I-tap ang kandidato para sa karagdagang info sa mga posisyon nila\n"
+  },
+  "Compare": {
+    "running": "Tumatakbo bilang {}",
+    "SamePos": {
+      "header": "Nagkakasundo kayo sa sumusunod na Isyu",
+      "pabor": "PABOR din si {} dito:",
+      "diPabor": "DI-PABOR din si {} dito:"
+    },
+    "DifPose": {
+      "header": "Hindi kayo nagkakasundo sa sumusunod na Isyu",
+      "pabor": "PABOR si {} dito:",
+      "diPabor": "DI-PABOR si {} dito:"
+    },
+    "wala": "WALANG posisyon si {} dito:",
+    "ewan": "EWAN si {} dito:"
+  },
+  "questions": {
+    "q0": "Uyon ba ka sa paglaglag sa bata?",
+    "q1": "Uyon ba ka sa kamatayong silot?",
+    "q2": "Uyon ba ka sa kaminyoon sa mga sama og sekso?",
+    "q3": "Uyon ba ka sa pag legalisar sa diborsyo?",
+    "q4": "Uyon ba ka sa pagpatangtang si Bise-Presidente Sara Duterte?",
+    "q5": "Uyon ba ka nga depensahan ang West PH Sea batok sa China?",
+    "q6": "Uyon ba ka sa pagkooperar sa International Criminal Court (ICC)?",
+    "q7": "Uyon ba ka sa minando nga Comprehensive Sexuality Education (CSE)?",
+    "q8": "Uyon ba ka sa minando nga Reserve Officers Training Corps (MROTC)?",
+    "q9": "Uyon ba ka sa pagpasiugda sa pagmina sa Pilipinas?",
+    "q10": "Uyon ba ka sa gipasa nga Sexual Orientation, Gender Identity and Expression (SOGIE) Equality Bill?",
+    "q11": "Uyon ba ka sa charter change?",
+    "q12": "Uyon ba ka sa political dynasties?"
+  }
+}
